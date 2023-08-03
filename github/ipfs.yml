@@ -74,6 +74,7 @@ members:
     - dborzov
     - dchoi27
     - deltazxm
+    - dennis-tra
     - dgrisham
     - dignifiedquire
     - dirkmc
@@ -9250,6 +9251,15 @@ teams:
         - warpfork
         - willscott
     parent_team_id: Repos - Go
+    privacy: closed
+  ProbeLab:
+    description: ProbeLab Team
+    members:
+      maintainer:
+        - yiannisbot
+        - iand
+        - guillaumemichel
+        - dennis-tra
     privacy: closed
   Repos - Go:
     description: Golang Repos
